@@ -93,7 +93,7 @@ function updateBalance(amount, isAdd) {
 }
 
 
-/////event function
+
 document.getElementById('deposit-button').addEventListener('click', function () {
     /* 
     const depositInput = document.getElementById('deposit-input');
